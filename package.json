@@ -1,0 +1,10 @@
+{
+    "name": "com.theseventyseven.multiplay",
+    "displayName": "MultiPlay",
+    "description": "MultiPlay is an editor extension that makes it easy to launch multiple game instances at the same time.",
+    "version": "1.0.0",
+    "unity": "2021.2",
+    "dependencies": {
+        "com.unity.editorcoroutines": "1.0.0"
+    }
+}
